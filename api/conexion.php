@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = "bkdss8husughxwqvm3ju-mysql.services.clever-cloud.com";
-$dbuser = "usxqmrypw6rg9kbc";
-$dbpass = "Psg0IARg21Vfn84MqTOg";
-$dbname = "bkdss8husughxwqvm3ju";
+$dbhost = "likn_host";
+$dbuser = "0";
+$dbpass = "0";
+$dbname = "0";
 
 $conn = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
 
